@@ -28,7 +28,7 @@ class BirdListItemOne extends StatelessWidget {
             new Center(
               child: new Text(
                 title.toUpperCase(),
-                style: TextStyle(fontWeight: FontWeight.w500, fontSize: 20),
+                style: TextStyle(fontWeight: FontWeight.w500, fontSize: 18),
               ),
             )
           ],
